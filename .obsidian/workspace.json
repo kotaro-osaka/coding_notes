@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "53579c9f637f1ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c19ec653774cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac1ce392c7e95a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uem/steps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "steps"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62798397ea7e4961",
+    "type": "split",
+    "children": [
+      {
+        "id": "c541bca917b06a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aafbf1bf568c9ecc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e487efd5675cab73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "621532e38e7d9a25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31c1e903f13fab79",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2161c5f35ef6213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "318fa2aa5abe0fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mdm/steps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for steps"
+            }
+          },
+          {
+            "id": "889b16ab95803472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mdm/steps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from steps"
+            }
+          },
+          {
+            "id": "b80e72d0834c0579",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d7ad5375972c8bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mdm/steps.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of steps"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ac1ce392c7e95a7",
+  "lastOpenFiles": [
+    "uem/stack.md",
+    "uem/steps.md",
+    "uem",
+    "00 - AWS/choosing.md",
+    "01 - Android/android_app.md",
+    "03 - Codecademy/98 - archive/JavaScript/Cheatsheet_Handlebars.pdf",
+    "06 - FreeCodeCamp/2 - sql/overview.md",
+    "06 - FreeCodeCamp/2 - sql",
+    "06 - FreeCodeCamp/1 - statistics/lexicon.md",
+    "06 - FreeCodeCamp/1 - statistics/formulas.md",
+    "06 - FreeCodeCamp/1 - statistics/sampling_techniques.md",
+    "06 - FreeCodeCamp/0 - res/stratified_sampling.png",
+    "06 - FreeCodeCamp/0 - res/weighted_sampling.png",
+    "06 - FreeCodeCamp/1 - statistics",
+    "06 - FreeCodeCamp/0 - res/clustered_sampling.png",
+    "06 - FreeCodeCamp/0 - res/random_sampling.png",
+    "06 - FreeCodeCamp/0 - res/systematic_sampling.png",
+    "06 - FreeCodeCamp/0 - res/population_sample.png",
+    "06 - FreeCodeCamp/0 - res",
+    "06 - FreeCodeCamp",
+    "00 - AWS/1 - services/computing_services.md",
+    "00 - AWS/lexicon.md",
+    "97 - Uncategorized/1 - Web Server/nodejs.md",
+    "97 - Uncategorized/1 - Web Server/2 - firebase/setup.md",
+    "97 - Uncategorized/1 - Web Server/2 - firebase/google_auth_popup.md",
+    "97 - Uncategorized/1 - Web Server/2 - firebase/commands.md",
+    "97 - Uncategorized/careers.md",
+    "03 - Codecademy/5 - Command Line/syntax.md",
+    "03 - Codecademy/5 - Command Line/5.0 - res/IMG FilesystemVSFIlemanagerGI.png",
+    "03 - Codecademy/5 - Command Line/5.0 - res/BashToWinCommands.png",
+    "03 - Codecademy/5 - Command Line/5.0 - res",
+    "03 - Codecademy/5 - Command Line/general.md",
+    "03 - Codecademy/4 - Python/lists.md",
+    "03 - Codecademy/4 - Python/libraries.md",
+    "03 - Codecademy/4 - Python/errors.md",
+    "03 - Codecademy/4 - Python/built_in_functions.md",
+    "03 - Codecademy/4 - Python/basics.md",
+    "03 - Codecademy/3 - SQL/sqlite.md",
+    "03 - Codecademy/3 - SQL/sql.md",
+    "03 - Codecademy/2 - Full Stack Engineer/text_editors.md",
+    "03 - Codecademy/2 - Full Stack Engineer/sql.md",
+    "03 - Codecademy/2 - Full Stack Engineer/2.0 - res/htmlcss1-diagram__fontanatomy.svg",
+    "03 - Codecademy/2 - Full Stack Engineer/2.0 - res/ColorWheel.svg",
+    "03 - Codecademy/2 - Full Stack Engineer/2.0 - res",
+    "00 - AWS/3 - analytics_monitoring",
+    "00 - AWS/2 - security"
+  ]
+}

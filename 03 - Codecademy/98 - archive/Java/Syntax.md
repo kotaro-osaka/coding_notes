@@ -1,0 +1,5 @@
+- `static`
+	- Method is associated with the class, not a specific instance (object) of that class
+	- You can call a static method without creating an object of the class
+- `abstract`
+	- Subclasses need to implement method
