@@ -27,7 +27,7 @@
 - Export as Bootable USB option
 
 ___
-### **Step 2: Prototype the Basics**
+## **Step 2: Prototype the Basics**
 
 Start experimenting with individual components to see how they work:
 
