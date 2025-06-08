@@ -2,4 +2,4 @@
 ___
 ## Package Manager
 1. `.npmrc` in root to specify `package-manager=pnpm@<version>`
-2. `package.json`
+2. `package.json` in project
