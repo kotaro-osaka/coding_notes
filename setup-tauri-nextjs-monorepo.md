@@ -8,7 +8,7 @@ ___
 - `public-hoist-pattern[]=*eslint*` Hoist eslint-related packages to root
 
 ## pnpm workspaces
-> `/.pnpm-workspace.yaml`
+> `/pnpm-workspace.yaml`
 
 ```yaml
 packages:
@@ -17,6 +17,8 @@ packages:
 ```
 
 ## package.json
+> `/package.json`
+
 
 
 
