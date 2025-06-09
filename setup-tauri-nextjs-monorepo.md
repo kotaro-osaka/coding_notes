@@ -12,8 +12,12 @@ ___
 
 ```yaml
 packages:
-	- 'apps'
+	- 'apps/*'
+	- 'packages/*'
 ```
+
+## package.json
+
 
 
 ## To do
