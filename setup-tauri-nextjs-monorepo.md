@@ -11,13 +11,13 @@ root/
 │   │   ├── package.json
 │   │   └── ...
 │   │
-│   └── desktop/            # Tauri desktop app
+│   ├── desktop/            # Tauri desktop app
 │   │   ├── src-tauri/
 │   │   ├── src/
 │   │   ├── package.json
 │   │   └── ...
 │   │
-│   └── desktop/            # Next.js desktop frontend app
+│   └── desktop-frontend/   # Next.js desktop frontend
 │       ├── src-tauri/
 │       ├── src/
 │       ├── package.json
@@ -36,9 +36,8 @@ root/
 ├── .npmrc
 ├── pnpm-workspace.yaml
 ├── turbo.json
-├── package.json            # root scripts + devDependencies
+├── package.json
 └── ...
-
 ```
 
 ## npm config file `.npmrc`
