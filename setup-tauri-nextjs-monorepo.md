@@ -24,12 +24,15 @@ root/
 │       └── ...
 │
 ├── packages/
+│   ├── eslint-config/
+
+│   │
 │   └── ui/                 # Shared UI components + libs
 │       ├── components/
 │       │   ├── shared/
 │       │   ├── web/
 │       │   └── desktop/
-│       ├── lib/
+│       ├── lib/            # Utility + 
 │       ├── package.json
 │       └── ...
 │
