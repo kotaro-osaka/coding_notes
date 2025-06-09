@@ -1,8 +1,9 @@
 # Setup Tauri-Next.js Monrepos
 ___
 ## npm config file `.npmrc`
-> `~/.npmrc`
-> 
+> `/.npmrc`
+- `package-manager=pnpm@10.12.1` Default package manager
+- `auto-install-peers` 
 
 ## To do
 1. `.npmrc`: look through all options or conventions from google etc.
