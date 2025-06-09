@@ -18,8 +18,8 @@ root/
 │   │   └── ...
 │   │
 │   └── desktop-frontend/   # Next.js desktop frontend
-│       ├── src-tauri/
-│       ├── src/
+│       ├── app/
+│       ├── public/
 │       ├── package.json
 │       └── ...
 │
