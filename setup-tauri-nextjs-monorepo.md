@@ -58,7 +58,7 @@ packages:
         "format": "prettier --write \"**/*.{ts,tsx,md}\"",
         "check-types": "turbo run check-types",
         "clean": "turbo run clean",
-        "tauri": "pnpm --filter native tauri",
+        "tauri": "pnpm --filter desktop tauri",
         "shadcn-web": "cd apps/web && pnpm shadcn",
         "shadcn-desktop": "cd apps/desktop && pnpm shadcn"
     },
