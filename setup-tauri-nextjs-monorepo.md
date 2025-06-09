@@ -64,5 +64,5 @@ packages:
 ___
 > [!info]
 > Avoid sharing whole monorepo with webhost by setting up a **filtered deployment branch**
-» Prune with `turbo prune` to create a folder including the bare minimum of `apps/web` and deploy that using CI
+» `turbo prune --scope=web` to create a folder including the bare minimum of `apps/web` and deploy that using CI
 
