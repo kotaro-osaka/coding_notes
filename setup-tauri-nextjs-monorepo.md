@@ -3,7 +3,8 @@ ___
 ## npm config file `.npmrc`
 > `/.npmrc`
 - `package-manager=pnpm@10.12.1` Default package manager
-- `auto-install-peers` 
+- `auto-install-peers=true` Ensure host project provides certain packages
+- 
 
 ## To do
 1. `.npmrc`: look through all options or conventions from google etc.
