@@ -19,7 +19,30 @@ packages:
 ## turbo.json
 > `/turbo.json`
 ```json
-
+{
+    "$schema": "https://turborepo.com/schema.json",
+    "ui": "tui",
+    "tasks": {
+        "build": {
+            "dependsOn": ["^build"],
+            "inputs": ["$TURBO_DEFAULT$", ".env*"],
+            "outputs": [".next/**", "!.next/cache/**"]
+        },
+        "lint": {
+            "dependsOn": ["^lint"]
+        },
+        "check-types": {
+            "dependsOn": ["^check-types"]
+        },
+        "dev": {
+            "cache": false,
+            "persistent": true
+        },
+        "clean": {
+            "cache": false
+        }
+    }
+}
 ```
 
 ## package.json
@@ -31,9 +54,15 @@ packages:
 > [!info]
 > Extend and add onto `package.json` in subfolders by specifying `"extends": "/path/to/base.json"`
 
+
+
+
+
+
+
 # Protocol
 ___
 > [!info]
 > Avoid sharing whole monorepo with webhost by setting up a **filtered deployment branch**
-» Prune with turbo script to create a folder including the bare minimum of `apps/web` and deploy that using CI
+» Prune with `turbo prune` to create a folder including the bare minimum of `apps/web` and deploy that using CI
 
