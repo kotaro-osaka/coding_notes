@@ -5,7 +5,7 @@ ___
 - `registry=https://registry.npmjs.org/` Default registry to pull packages from
 - `package-manager=pnpm@10.12.1` Default package manager
 - `auto-install-peers=true` Ensure host project provides certain packages
-- 
+- `public-hoist-pattern[]=*eslint*` Hoist eslint-related packages to root
 
 ## To do
 1. `.npmrc`: look through all options or conventions from google etc.
