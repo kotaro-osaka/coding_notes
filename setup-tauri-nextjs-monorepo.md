@@ -48,13 +48,36 @@ packages:
 ## package.json
 > `/package.json`
 ```json
-
+{
+    "name": "trident",
+    "private": true,
+    "scripts": {
+        "build": "turbo run build",
+        "dev": "turbo run dev",
+        "lint": "turbo run lint",
+        "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+        "check-types": "turbo run check-types",
+        "clean": "turbo run clean",
+        "tauri": "pnpm --filter native tauri",
+        "shadcn-web": "cd apps/web && pnpm shadcn",
+        "shadcn-desktop": "cd apps/desktop && pnpm shadcn"
+    },
+    "devDependencies": {
+        "prettier": "^3.5.3",
+        "turbo": "^2.5.4",
+        "typescript": "5.8.3"
+    },
+    "packageManager": "pnpm@10.12.1",
+    "engines": {
+        "node": ">=18"
+    }
+}
 ```
 
 > [!info]
 > Extend and add onto `package.json` in subfolders by specifying `"extends": "/path/to/base.json"`
 
-
+##
 
 
 
