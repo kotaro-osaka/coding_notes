@@ -28,7 +28,8 @@ packages:
 
 ```
 
-> 
+> [!info]
+> Extend and add onto `package.json` in subfolders by specifying `"extends": "/"`
 
 ## To do
 1. `.npmrc`: look through all options or conventions from google etc.
