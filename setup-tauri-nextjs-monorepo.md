@@ -7,6 +7,15 @@ ___
 - `auto-install-peers=true` Ensure host project provides certain packages
 - `public-hoist-pattern[]=*eslint*` Hoist eslint-related packages to root
 
+## pnpm workspaces
+> `/.pnpm-workspace.yaml`
+
+```yaml
+packages:
+	- 'apps'
+```
+
+
 ## To do
 1. `.npmrc`: look through all options or conventions from google etc.
 2. `package.json`: look through all options or conventions from google etc. (incl `packageManager`)
