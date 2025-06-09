@@ -34,5 +34,6 @@ packages:
 
 
 > [!info]
-> Avoid sharing whole monorepo with webhost by setting up a filtered deployment branch
-> 1. 
+> Avoid sharing whole monorepo with webhost by setting up a **filtered deployment branch**
+> Prune with turbo script to create a folder including the bare minimum of `apps/web`
+
