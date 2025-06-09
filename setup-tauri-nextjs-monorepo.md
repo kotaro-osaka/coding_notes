@@ -1,8 +1,8 @@
 # Setup Tauri-Next.js Monrepos
 ___
-## Package Manager
-1. `.npmrc` in root to specify `package-manager=pnpm@<version>`
-2. `package.json` in project
+## npm config file `.npmrc`
+> `~/.npmrc`
+> 
 
 ## To do
 1. `.npmrc`: look through all options or conventions from google etc.
