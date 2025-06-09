@@ -25,14 +25,15 @@ root/
 │
 ├── packages/
 │   ├── eslint-config/
-
+│   │
+│   ├── typescript-config/
 │   │
 │   └── ui/                 # Shared UI components + libs
 │       ├── components/
 │       │   ├── shared/
 │       │   ├── web/
 │       │   └── desktop/
-│       ├── lib/            # Utility + 
+│       ├── lib/
 │       ├── package.json
 │       └── ...
 │
