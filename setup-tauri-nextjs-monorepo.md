@@ -1,5 +1,9 @@
 # Setup Tauri-Next.js Monrepos
 ___
+## Project Structure
+```
+```
+
 ## npm config file `.npmrc`
 > `/.npmrc`
 - `registry=https://registry.npmjs.org/` Default registry to pull packages from
