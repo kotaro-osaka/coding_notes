@@ -16,6 +16,12 @@ packages:
 	- 'packages/*'
 ```
 
+## turbo.json
+> `/turbo.json`
+```json
+
+```
+
 ## package.json
 > `/package.json`
 
