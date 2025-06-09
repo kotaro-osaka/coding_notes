@@ -1,7 +1,45 @@
 # Setup Tauri-Next.js Monrepos
 ___
 ## Project Structure
-```
+```csharp
+root/
+│
+├── apps/
+│   ├── web/                # Next.js web app
+│   │   ├── app/
+│   │   ├── public/
+│   │   ├── components/
+│   │   ├── package.json
+│   │   └── ...
+│   │
+│   └── desktop/            # Tauri desktop app
+│       ├── src-tauri/
+│       ├── src/
+│       ├── package.json
+│       └── ...
+│
+│   └── desktop/            # Tauri desktop app
+│       ├── src-tauri/
+│       ├── src/
+│       ├── package.json
+│       └── ...
+│
+├── packages/
+│   └── ui/                 # Shared UI components + libs
+│       ├── components/
+│       │   ├── shared/
+│       │   ├── web/
+│       │   └── desktop/
+│       ├── lib/
+│       ├── package.json
+│       └── ...
+│
+├── .npmrc
+├── pnpm-workspace.yaml
+├── turbo.json
+├── package.json            # root scripts + devDependencies
+└── ...
+
 ```
 
 ## npm config file `.npmrc`
