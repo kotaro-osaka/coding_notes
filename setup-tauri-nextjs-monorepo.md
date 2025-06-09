@@ -8,17 +8,16 @@ root/
 │   ├── web/                # Next.js web app
 │   │   ├── app/
 │   │   ├── public/
-│   │   ├── components/
 │   │   ├── package.json
 │   │   └── ...
 │   │
 │   └── desktop/            # Tauri desktop app
-│       ├── src-tauri/
-│       ├── src/
-│       ├── package.json
-│       └── ...
-│
-│   └── desktop/            # Tauri desktop app
+│   │   ├── src-tauri/
+│   │   ├── src/
+│   │   ├── package.json
+│   │   └── ...
+│   │
+│   └── desktop/            # Next.js desktop frontend app
 │       ├── src-tauri/
 │       ├── src/
 │       ├── package.json
