@@ -2,6 +2,7 @@
 ___
 ## npm config file `.npmrc`
 > `/.npmrc`
+- `registry=https://registry.npmjs.org/` Default registry to pull packages from
 - `package-manager=pnpm@10.12.1` Default package manager
 - `auto-install-peers=true` Ensure host project provides certain packages
 - 
