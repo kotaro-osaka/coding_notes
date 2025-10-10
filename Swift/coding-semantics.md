@@ -17,4 +17,7 @@ ___
 2. [Numeric Literals](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Numeric-Literals)
 	- Binary `0b`
 	- Octal `0o`
-	- Hexadecimal `0x`, `1.25e2`, `0xFp2`, ``)
+	- Hexadecimal `0x`
+	- Decimal exponent `1.25e2`
+	- Hexadecimal exponent `0xFp2`
+	- 
