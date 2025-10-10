@@ -11,4 +11,7 @@ ___
 ___
 
 [String Interpolation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Interpolation)
-[Integer Bounds](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integer-Bounds)
+## Niche Use cases
+___
+- [Integers](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integers)
+	- `.min`/`.max`
