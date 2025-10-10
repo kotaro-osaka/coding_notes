@@ -15,4 +15,5 @@ ___
 	- Unsigned integers
 	- Double is preferred over float
 2. [Type Safety and Type Inference](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Safety-and-Type-Inference)
+	- Numeric literals (`0b`, `0o`, `0x`, `1.25e2`)
 	- 
