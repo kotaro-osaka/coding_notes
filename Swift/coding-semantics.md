@@ -18,6 +18,6 @@ ___
 	- Binary `0b`
 	- Octal `0o`
 	- Hexadecimal `0x`
-	- Decimal exponent `1.25e2` ($\cdot$)
-	- Hexadecimal exponent `0xFp2`
+	- Decimal exponent `1.25e2` ($\cdot 10^x$)
+	- Hexadecimal exponent `0xFp2` ($\cdot 2^x$)
 	- 
