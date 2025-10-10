@@ -2,8 +2,13 @@
 ___
 *Things to try out and adopt*
 
-> [!info] Variable/Constant naming
+> [!info] Naming Constants and Variables
 > If you need to give a constant or variable the same name as a reserved Swift keyword, surround the keyword with backticks (\`) when using it as a name. However, avoid using keywords as names unless you have absolutely no choice.
+
+> [!info] Floating-Point Numbers
+> `Double` has a precision of at least 15 decimal digits, whereas the precision of `Float` can be as little as 6 decimal digits. The appropriate floating-point type to use depends on the nature and range of values you need to work with in your code. In situations where either type would be appropriate, `Double` is preferred.
+
+___
 
 [String Interpolation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Interpolation)
 [Integer Bounds](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integer-Bounds)
