@@ -1,6 +1,6 @@
 {
-  "remoteURL": "https://github.com/kotaro-osaka/coding_notes",
+  "remoteURL": "https://github.com/kotaro-osaka/coding_notes.git",
   "gitLocation": "",
-  "syncinterval": 2,
+  "syncinterval": 3,
   "isSyncOnLoad": true
 }
