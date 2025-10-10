@@ -6,4 +6,4 @@ ___
 > If you need to give a constant or variable the same name as a reserved Swift keyword, surround the keyword with backticks (\`) when using it as a name. However, avoid using keywords as names unless you have absolutely no choice.
 
 [String Interpolation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Interpolation)
-[Integer Bounds]()
+[Integer Bounds](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integer-Bounds)
