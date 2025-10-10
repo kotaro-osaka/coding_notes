@@ -14,4 +14,5 @@ ___
 	- 32 vs 64-bit platforms
 	- Unsigned integers
 	- Double is preferred over float
-- 
+2. [Type Safety and Type Inference](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Safety-and-Type-Inference)
+	- 
