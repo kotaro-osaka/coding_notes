@@ -27,9 +27,9 @@
 > - Method is a sequence of tasks for computer to execute
 > 	- `main()` - Contains all instructions for computer to execute // program
 > - *Pascal Case* is used for Classes
->![Pascal Case | 400x120](pascal-case.png)
+>![Pascal Case | 400x120](archive/03%20-%20Codecademy/98%20-%20archive/Java/res%20-%20java/pascal-case.png)
 > - *Camel Case* is used for variables and methods
->![Camel Case | 400x115](camel-case.png)
+>![Camel Case | 400x115](archive/03%20-%20Codecademy/98%20-%20archive/Java/res%20-%20java/camel-case.png)
 > - Objects are packages of state and behavior
 > - Variables are named memory locations
 > - Constructors - Methods in class, used to initialize object of class

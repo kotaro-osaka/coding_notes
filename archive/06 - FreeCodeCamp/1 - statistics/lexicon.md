@@ -10,7 +10,7 @@ ___
 	- Sum of all probabilities for all possible values must equal 1
 ### Population & Sample
 
-![[population_sample.png|500]]
+![[archive/06 - FreeCodeCamp/0 - res/population_sample.png|500]]
 - **Population**: Set of all observations (individuals, objects, events or procedures)
 - **Sample**: Subset of observations from population (ideally true representation of population)
 	- Used, because experimenting with entire population too expensive

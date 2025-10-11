@@ -125,9 +125,9 @@ fun MyFunction(name: String, modifier: Modifier = Modifier) { // Optional Modifi
 - **Column**: `verticalArrangement` & `horizontalAlignment` arguments
 - *Arrangement property*: Used to arrange child elements when size of layout is larger than sum of children
 Column arrangement
-![[VerticalArrangements.gif|350]]
+![[archive/01 - Android/0 - res/VerticalArrangements.gif|350]]
 Row arrangement
-![[HorizontalArrangements.gif|500]]
+![[archive/01 - Android/0 - res/HorizontalArrangements.gif|500]]
 ---
 ## Scale Content
 [Reference](https://developer.android.com/reference/kotlin/androidx/compose/ui/layout/ContentScale) | [Guide](https://developer.android.com/jetpack/compose/graphics/images/customize#content-scale)
@@ -140,7 +140,7 @@ Row arrangement
 ___
 ## Padding
 `Modifier.padding`
-![[Padding.png|250]]
+![[archive/01 - Android/0 - res/Padding.png|250]]
 All sides equal padding:
 `Modifier.padding(16.dp)`
 Specify side:

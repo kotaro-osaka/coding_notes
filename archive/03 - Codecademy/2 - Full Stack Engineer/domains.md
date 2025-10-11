@@ -5,4 +5,4 @@
 	- Referred to as *Web addresses*
 ## DNS
 - "Domain Name System"
-![[HowDNSWorks.png]]
+![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/HowDNSWorks.png]]

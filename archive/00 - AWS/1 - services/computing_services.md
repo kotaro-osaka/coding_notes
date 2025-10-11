@@ -49,7 +49,7 @@ ___
 | ----------------------------- | ----------------------------------------------------------------------------- |
 | *Responds* to changing demand | Automatically *schedules* right number of instances based on predicted demand |
 #### Auto scaling Config
-![[auto_scaling_group.png|250]]
+![[archive/00 - AWS/0 - res/auto_scaling_group.png|250]]
 - Desired capacity default: Minimum
 ___
 ## Lambda
