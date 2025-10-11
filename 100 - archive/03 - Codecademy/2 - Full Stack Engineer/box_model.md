@@ -6,7 +6,7 @@
 > - `padding`: The amount of space between content area and border
 > - `border`: The thickness & style of border surrounding content area & padding
 > - `margin`: The amount of space between border and outside edge of element
->![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/diagram-boxmodel_Updated_1-01.svg|500]]
+>![[100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/diagram-boxmodel_Updated_1-01.svg|500]]
 - Pixels: Stay the same on all devices & overflow
 **Height & Width**
 - Default: Set to hold raw contents of box

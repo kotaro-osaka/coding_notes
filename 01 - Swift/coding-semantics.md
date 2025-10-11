@@ -21,4 +21,5 @@ ___
 	- Decimal exponent `1.25e2` ($\cdot 10^x$)
 	- Hexadecimal exponent `0xFp2` ($\cdot 2^x$)
 	- Formatting `000123.456`, `1_000_000`, `1_000_000.000_000_1`
-	- 
+3. [Type Aliases](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Aliases)
+	- Refer to existing type by more contextually apro

@@ -111,7 +111,7 @@ cd ../directory_name
 # Useful
 1. Change default command prompt `$`
 	- `export PS1=">> "`: Changes `$` to `>>`, Leave space for aesthetics
-![[archive/03 - Codecademy/5 - Command Line/5.0 - res/BashToWinCommands.png|750]]
+![[100 - archive/03 - Codecademy/5 - Command Line/5.0 - res/BashToWinCommands.png|750]]
 - Open directory in VS Code:
 	1. Change to directory
 	2. Type `code .

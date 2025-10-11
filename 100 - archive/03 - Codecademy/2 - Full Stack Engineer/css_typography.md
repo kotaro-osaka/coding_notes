@@ -8,7 +8,7 @@
 - Sans-Serif: Doesn't have extra details\
 - Can be added as a final fallback font:
 	- `font-family: Caslon, Georgia, 'Times New Roman', serif;`
-![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/htmlcss1-diagram__fontanatomy.svg|500]]
+![[100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/htmlcss1-diagram__fontanatomy.svg|500]]
 ## Font Weight
 `font-weight`
 - Specifies how thin/thick text appears
@@ -51,14 +51,14 @@
 - Takes length values in `px` or `em`
 ### Line Height
 `line-height`
-![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/LineHeight.png|500]]
+![[100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/LineHeight.png|500]]
 - Used to set height of line containing text
 - Takes unitless numbers (`1.2`), `px`, `%`, or `em`
 - Unitless value if preferred, because it's based on current font size (Relative)
 ### Text Alignement
 `text-align`
 - Used to align text to parent element
-- [more](archive/03%20-%20Codecademy/2%20-%20Full%20Stack%20Engineer/css.md)
+- [more](100%20-%20archive/03%20-%20Codecademy/2%20-%20Full%20Stack%20Engineer/css.md)
 ## Web Fonts
 - Fonts used for own website
 - Limitless

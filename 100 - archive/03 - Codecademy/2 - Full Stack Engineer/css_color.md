@@ -22,7 +22,7 @@
 - `rgb(1, 2, 3)`
 - Hex and RGB color representations are equivalent
 ## HSL
-![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/ColorWheel 1.svg|200]]
+![[100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/ColorWheel 1.svg|200]]
 - Syntax:
 	1. Degree of hue | 0-360
 	2. Percentage of saturation (Intensity/Purity of color)

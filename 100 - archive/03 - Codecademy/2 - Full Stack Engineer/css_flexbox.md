@@ -11,6 +11,6 @@
 	![[Justify Content.png|500]]
 - `align-items`: Used to position flex items vertically
 	- Properties:
-	![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/Align Items.png|500]]
+	![[100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/Align Items.png|500]]
 - `flex-grow`: Used to specify growth of flex items (1 = equal fill, 2=specified takes twice the fill)
 - `flex-shrink`: Used to specify shrinkage of flex items

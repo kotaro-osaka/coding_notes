@@ -34,7 +34,7 @@
 ---
 ## File System
 - Organizes computer’s files and directories into a *tree structure*
-![[archive/03 - Codecademy/5 - Command Line/5.0 - res/IMG FilesystemVSFIlemanagerGI.png|1000]]
+![[100 - archive/03 - Codecademy/5 - Command Line/5.0 - res/IMG FilesystemVSFIlemanagerGI.png|1000]]
 - `root directory`: First directory in file system, Parent of all other directories & files in the file system
 - *Parent-Child relationship*: Continues as long as directories and files are *nested*
 - *Parent directories*: Can contain more *child directories* & *files*

@@ -1,7 +1,7 @@
 # Primary vs. Secondary navigation
 | Primary                                                                                         | Secondary                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Contains most important links & buttons that need to be displayed on **every** page of the site | "Breadcrumb navigation"<br>Consists of clickable list of pages/attributes that led to current page<br>Helps User understand the extent of the site & current location<br>![[archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/UI_breadcrumb.svg]] |
+| Contains most important links & buttons that need to be displayed on **every** page of the site | "Breadcrumb navigation"<br>Consists of clickable list of pages/attributes that led to current page<br>Helps User understand the extent of the site & current location<br>![[100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/UI_breadcrumb.svg]] |
 ## Benefits of breadcrumbs
 - Users that enter a random page can quickly get an overview and understand where they are located
 - Hints to extent of the site
