@@ -22,4 +22,5 @@ ___
 	- Hexadecimal exponent `0xFp2` ($\cdot 2^x$)
 	- Formatting `000123.456`, `1_000_000`, `1_000_000.000_000_1`
 3. [Type Aliases](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Aliases)
-	- Refer to existing type by more contextually apro
+	- Refer to existing type by more contextually appropriate name (e.g. from external source) `type alias AudioSample = UInt16`
+	- 
