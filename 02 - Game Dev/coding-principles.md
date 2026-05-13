@@ -46,6 +46,16 @@ AMyActor Actor;          // wrong, won't compile or will cause problems
 AMyActor* Actor = SpawnActor<AMyActor>(...);
 ```
 
+### Templates
+```cpp
+template<typename T>
+T Add(T A, T B) {
+    return A + B;
+}
+
+Add<int>(1, 2);       // compiler generates an int version
+Add<float>(1.5f, 2.5f); // compiler generates a float version
+```
 ## Concepts
 ___
 ### Access specifiers
