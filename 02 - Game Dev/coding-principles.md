@@ -40,3 +40,22 @@ AMyActor Actor;          // wrong, won't compile or will cause problems
 AMyActor* Actor = SpawnActor<AMyActor>(...);
 ```
 
+## Concepts
+___
+### Referencing
+```cpp
+void BadFunction(FVector Location)   // Location is COPIED into the function
+{
+    Location.X = 999;  // modifies the copy, not the original
+}
+
+void GoodFunction(FVector& Location)  // & means "reference to the original"
+{
+    Location.X = 999;  // modifies the original
+}
+
+void ReadOnlyFunction(const FVector& Location)  // const ref — no copy, no modify
+{
+    // can read Location, can't modify it
+}
+```
