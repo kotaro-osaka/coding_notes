@@ -25,6 +25,12 @@ if (TargetActor) {
 }
 ```
 
+### Primitive types
+```cpp
+float X = 1.0f;   // correct
+float X = 1.0;    // compiles but it's a double, implicit conversion
+```
+
 ### Classes
 ```cpp
 // You never do this — UObjects can't be stack-allocated
