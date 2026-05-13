@@ -1,10 +1,3 @@
----
-banner:
-banner_y: 0.6025
-banner_lock: false
-banner_icon:
----
-#DevOps_Engineer #Machine_Learning_Eningeer #Robotics_Developer #Quantum_Computing #Android_Developer
 # DevOps Engineer
 - *Deploying* and *maintaining* existing software
 - *Development & Operations*: Write code and make decisions that are critical to the product

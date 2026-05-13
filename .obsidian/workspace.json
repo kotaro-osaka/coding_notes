@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98 - Uncategorized/careers.md",
+                "file": "02 - Game Dev/artist-collab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "careers"
+              "title": "artist-collab"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "fbd7a479b6580fe4",
   "lastOpenFiles": [
+    "98 - Uncategorized/career-paths.md",
+    "02 - Game Dev/artist-collab.md",
+    "02 - Game Dev",
     "JapanCityRiver.gif",
-    "98 - Uncategorized/careers.md",
     "00 - Concepts/memoization.md",
     "00 - Concepts",
     "98 - Uncategorized/setup-tauri-nextjs-monorepo.md",
@@ -209,11 +211,9 @@
     "100 - archive/03 - Codecademy/5 - Command Line/syntax.md",
     "100 - archive/03 - Codecademy/5 - Command Line/5.0 - res/IMG FilesystemVSFIlemanagerGI.png",
     "100 - archive/03 - Codecademy/5 - Command Line/5.0 - res/BashToWinCommands.png",
-    "100 - archive/03 - Codecademy/5 - Command Line/5.0 - res",
     "100 - archive/03 - Codecademy/5 - Command Line/general.md",
     "100 - archive/03 - Codecademy/4 - Python/lists.md",
     "100 - archive/03 - Codecademy/4 - Python/libraries.md",
-    "100 - archive/03 - Codecademy/4 - Python/errors.md",
-    "100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/htmlcss1-diagram__fontanatomy.svg"
+    "100 - archive/03 - Codecademy/4 - Python/errors.md"
   ]
 }
