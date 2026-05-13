@@ -31,6 +31,12 @@ float X = 1.0f;   // correct
 float X = 1.0;    // compiles but it's a double, implicit conversion
 ```
 
+### Macros
+```cpp
+TEXT() // Macro, wraps string to ensure its stored as wide chars (2-byte UNI) instead of 1-byte ASCII
+// withou
+```
+
 ### Classes
 ```cpp
 // You never do this — UObjects can't be stack-allocated
