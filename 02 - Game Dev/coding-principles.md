@@ -88,3 +88,17 @@ if (IsValid(TargetActor)) { // Checks that pointer is non-null and UObject hasnt
 	TargetActor->DoSomething();
 }
 ```
+
+### Inheritance
+```cpp
+virtual // marks function as overridable
+
+class AActor {
+public:
+	virtual void Speak() { UE_LOG(LogTemp, Log, TEXT("I am an Actor")); }
+};
+
+class AMyActor : public AActor {
+	
+}
+```
