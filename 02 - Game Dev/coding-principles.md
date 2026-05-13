@@ -48,6 +48,13 @@ AMyActor* Actor = SpawnActor<AMyActor>(...);
 
 ## Concepts
 ___
+### Access specifiers
+```cpp
+public // accessible from anywhere
+private // only within same class
+protected // class and all subclasses
+```
+
 ### Referencing
 ```cpp
 void BadFunction(FVector Location) {  // Location is COPIED into the function
