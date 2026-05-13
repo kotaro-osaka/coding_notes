@@ -108,3 +108,11 @@ public:
 };
 ```
 
+### Getters
+```cpp
+int32 GetHealth() const { 
+    Health = 0;  // compile error -- const function can't modify members
+    return Health;  // fine
+}
+```
+
