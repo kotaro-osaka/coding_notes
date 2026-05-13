@@ -1,8 +1,8 @@
 ---
-banner: "![[JapanCityRiver.gif]]"
+banner:
 banner_y: 0.6025
-banner_lock: true
-banner_icon: 🍣
+banner_lock: false
+banner_icon:
 ---
 #DevOps_Engineer #Machine_Learning_Eningeer #Robotics_Developer #Quantum_Computing #Android_Developer
 # DevOps Engineer

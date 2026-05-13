@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "770970ed432d1f7c",
+        "id": "a731110ab0bc180e",
         "type": "tabs",
         "children": [
           {
-            "id": "e14e0f15b3e9be10",
+            "id": "fbd7a479b6580fe4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "98 - Uncategorized/careers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "careers"
             }
           }
         ]
@@ -165,9 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e14e0f15b3e9be10",
+  "active": "fbd7a479b6580fe4",
   "lastOpenFiles": [
-    "iykyk.md",
+    "JapanCityRiver.gif",
+    "98 - Uncategorized/careers.md",
+    "00 - Concepts/memoization.md",
+    "00 - Concepts",
+    "98 - Uncategorized/setup-tauri-nextjs-monorepo.md",
     "01 - Swift/coding-semantics.md",
     "100 - archive/uem/stack.md",
     "100 - archive/uem/steps.md",
@@ -175,7 +181,6 @@
     "Swift/Untitled.md",
     "100 - archive",
     "01 - Swift",
-    "98 - Uncategorized/setup-tauri-nextjs-monorepo.md",
     "99 - misc/Pasted image 20250608190203.png",
     "100 - archive/uem",
     "100 - archive/00 - AWS/choosing.md",
@@ -201,7 +206,6 @@
     "98 - Uncategorized/1 - Web Server/2 - firebase/setup.md",
     "98 - Uncategorized/1 - Web Server/2 - firebase/google_auth_popup.md",
     "98 - Uncategorized/1 - Web Server/2 - firebase/commands.md",
-    "98 - Uncategorized/careers.md",
     "100 - archive/03 - Codecademy/5 - Command Line/syntax.md",
     "100 - archive/03 - Codecademy/5 - Command Line/5.0 - res/IMG FilesystemVSFIlemanagerGI.png",
     "100 - archive/03 - Codecademy/5 - Command Line/5.0 - res/BashToWinCommands.png",
@@ -210,8 +214,6 @@
     "100 - archive/03 - Codecademy/4 - Python/lists.md",
     "100 - archive/03 - Codecademy/4 - Python/libraries.md",
     "100 - archive/03 - Codecademy/4 - Python/errors.md",
-    "100 - archive/03 - Codecademy/4 - Python/built_in_functions.md",
-    "100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/htmlcss1-diagram__fontanatomy.svg",
-    "100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res"
+    "100 - archive/03 - Codecademy/2 - Full Stack Engineer/2.0 - res/htmlcss1-diagram__fontanatomy.svg"
   ]
 }
