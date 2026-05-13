@@ -58,7 +58,7 @@ Add<float>(1.5f, 2.5f); // compiler generates a float version
 ```
 ## Concepts
 ___
-- `C++` for systems and performance critical code, `Blueprint` for 
+- `C++` for systems and performance critical code, `Blueprint` for designer-facing logic and config
 
 ### Access specifiers
 ```cpp
@@ -82,3 +82,9 @@ void ReadOnlyFunction(const FVector& Location) { // const ref — no copy, no mo
 }
 ```
 
+### Null safety
+```cpp
+if (IsValid(TargetActor)) { // Checks that pointer is non-null and UObject hasnt been garbage collected
+	TargetActor->DoSomething();
+}
+```
