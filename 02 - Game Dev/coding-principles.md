@@ -58,6 +58,8 @@ Add<float>(1.5f, 2.5f); // compiler generates a float version
 ```
 ## Concepts
 ___
+- `C++` for systems and performance critical code, `Blueprint` for 
+
 ### Access specifiers
 ```cpp
 public // accessible from anywhere
