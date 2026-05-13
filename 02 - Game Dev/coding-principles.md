@@ -24,3 +24,13 @@ if (TargetActor) {
 	TargetActor->DoSomething();
 }
 ```
+
+### Classes
+```cpp
+// You never do this — UObjects can't be stack-allocated
+AMyActor Actor;          // wrong, won't compile or will cause problems
+
+// Always a pointer, always spawned through UE's system
+AMyActor* Actor = SpawnActor<AMyActor>(...);
+```
+
