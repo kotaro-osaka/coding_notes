@@ -1,4 +1,7 @@
 # Artist Collaboration
 ___
 ## Artist’s workflow
-1. 
+### Skeletal meshes
+1. Create & rig 
+
+### Static meshes
