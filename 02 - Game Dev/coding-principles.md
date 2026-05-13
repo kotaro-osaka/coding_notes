@@ -9,5 +9,7 @@ AMyActor* TargetActor;  // Just reserves space for an address (bytes that happen
 AMyActor* TargetActor = nullptr; // Reserved, explicitly pointing at nothing
 
 // Check:
-if (TargetActor)
+if (TargetActor) {
+	TargetActor->DoSomething();
+}
 ```
