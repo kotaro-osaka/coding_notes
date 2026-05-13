@@ -98,7 +98,13 @@ public:
 	virtual void Speak() { UE_LOG(LogTemp, Log, TEXT("I am an Actor")); }
 };
 
-class AMyActor : public AActor {
-	
+class AMyCharacter : public AActor {
+	virtual void Speak() override { UE_LOG(LogTemp, Log, TEXT("I am a Character")); }
 }
+
+class IInteractable {
+public:
+    virtual void Interact() = 0;  // no body -- subclasses must implement this
+};
 ```
+
