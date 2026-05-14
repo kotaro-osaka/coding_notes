@@ -24,3 +24,5 @@ ___
 #### Don’t ship what players don’t need immediately
 - Design chunks around natural content boundaries
 
+#### Reference Auditing
+- Hard references between assets A and B, force B into the same chunk regardless
