@@ -35,8 +35,7 @@
               "title": "coding-principles"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3061f22a1df7890f",
+  "active": "fbd7a479b6580fe4",
   "lastOpenFiles": [
     "02 - Game Dev/coding-principles.md",
     "02 - Game Dev/artist-collab.md",

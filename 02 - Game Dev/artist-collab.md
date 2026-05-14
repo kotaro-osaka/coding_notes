@@ -9,3 +9,8 @@ ___
 5. 
 
 ### Static meshes
+
+### Reducing game size
+#### Texture compression
+- Texture import settings control format used per texture
+- 
