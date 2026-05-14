@@ -10,6 +10,12 @@ ___
 
 ### Static meshes
 
+
+### Nanite
+- Use for:
+	- static meshes with high geometric complexity (architectural details, rocks, terrain, props)
+	- Large numbers of unique meshes where manual LOD authoring would be prohibitive
+
 ### Reducing game size
 - Enable Oodle
 #### Texture settings on import
