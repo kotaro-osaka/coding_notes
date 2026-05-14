@@ -17,7 +17,7 @@ ___
 - Correct mip generation
 - Correct max texture size
 	- Use texture group system to enforce max sizes per category (`DeviceProfiles` - World, Character, UI, Lightmap)
-- sRGB - whether UE treats it as color texture ()
+- sRGB - whether UE treats it as color texture (✅ albedo/diffuse) or data texture (❌ normal maps, roughness, metallic)
 #### Audio compression settings
 - Streaming for over few seconds
 - Compressed in memory for short sounds
