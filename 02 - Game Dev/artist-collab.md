@@ -11,5 +11,10 @@ ___
 ### Static meshes
 
 ### Reducing game size
-#### Texture compression
-- Correct texture `import settings` control format used per textur
+#### Texture settings on import
+- Correct compression format
+- Correct mip generation
+- Correct max texture size
+	- Use texture group system to enforce max sizes per category (`DeviceProfiles`)
+#### Audio compression settings
+- Streaming for 
