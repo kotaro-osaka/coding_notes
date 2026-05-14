@@ -12,5 +12,4 @@ ___
 
 ### Reducing game size
 #### Texture compression
-- Texture import settings control format used per texture
-- 
+- Correct texture `import settings` control format used per textur
