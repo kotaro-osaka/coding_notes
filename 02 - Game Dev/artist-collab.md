@@ -26,3 +26,15 @@ ___
 
 #### Reference Auditing
 - Hard references between assets A and B, force B into the same chunk regardless
+- `Reference Viewer` shows dependency graph.
+- Solution:
+Soft references break hard dependencies:
+```cpp
+// Hard reference -- ForestMesh is always loaded when this actor loads
+UPRIPERTY(EditDefaultsOnly)
+UStaticMesh* ForestMesh;
+
+// Soft reference -- ForestMesh only loads when explicitly requested
+UPROPERTY(EditDefaultsOnly)
+TSoftObjectPtr<UStaticMesh> ForestMesh;
+```
