@@ -24,7 +24,7 @@ ___
 	- Characters and anything skeletal
 	- Foliage (UE has a dedicated Foliage system with own LOD pipeline)
 	- Simple props where Nanite’s overhead isn’t worth it
-	- Anything that needs artist control over transition behaviour
+	- Anything that needs artist control over transition behavior
 
 
 ### Reducing game size
