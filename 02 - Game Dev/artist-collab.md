@@ -11,10 +11,16 @@ ___
 ### Static meshes
 
 ### Reducing game size
+- Enable Oodle
 #### Texture settings on import
 - Correct compression format
 - Correct mip generation
 - Correct max texture size
 	- Use texture group system to enforce max sizes per category (`DeviceProfiles`)
 #### Audio compression settings
-- Streaming for 
+- Streaming for over few seconds
+- Compressed in memory for short sounds
+
+#### Don’t ship what players don’t need immediately
+- Design chunks around natural content boundaries
+
