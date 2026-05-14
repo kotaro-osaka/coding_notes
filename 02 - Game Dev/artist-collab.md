@@ -15,6 +15,15 @@ ___
 - Use for:
 	- static meshes with high geometric complexity (architectural details, rocks, terrain, props)
 	- Large numbers of unique meshes where manual LOD authoring would be prohibitive
+	- Scenes where the cam moves and distances change constantly
+
+### Manual LODs
+- Use for:
+	- Characters and anything skeletal
+	- Foliage (UE has a dedicated Foliage system with own LOD pipeline)
+	- Simple props where Nanite’s overhead isn’t worth it
+	- Anything that needs artist control over transition behaviour
+
 
 ### Reducing game size
 - Enable Oodle
