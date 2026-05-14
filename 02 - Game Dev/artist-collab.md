@@ -13,7 +13,7 @@ ___
 ### Reducing game size
 - Enable Oodle
 #### Texture settings on import
-- Correct compression format
+- Correct compression format (use BC1 when there’s no alpha anyway - otherwise BC7 has empty alpha that takes up empty space)
 - Correct mip generation
 - Correct max texture size
 	- Use texture group system to enforce max sizes per category (`DeviceProfiles`)
