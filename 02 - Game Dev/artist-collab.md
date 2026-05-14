@@ -16,6 +16,8 @@ ___
 	- static meshes with high geometric complexity (architectural details, rocks, terrain, props)
 	- Large numbers of unique meshes where manual LOD authoring would be prohibitive
 	- Scenes where the cam moves and distances change constantly
+- Vs. Manual LOD:
+	- No popping between levels
 
 ### Manual LODs
 - Use for:
