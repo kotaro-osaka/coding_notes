@@ -35,7 +35,8 @@
               "title": "coding-principles"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbd7a479b6580fe4",
+  "active": "3061f22a1df7890f",
   "lastOpenFiles": [
-    "02 - Game Dev/coding-principles.md",
     "02 - Game Dev/artist-collab.md",
+    "02 - Game Dev/coding-principles.md",
     "98 - Uncategorized/career-paths.md",
     "02 - Game Dev",
     "JapanCityRiver.gif",
