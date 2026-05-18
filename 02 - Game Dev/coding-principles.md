@@ -117,8 +117,13 @@ int32 GetHealth() const {
 ```
 
 ### Forward declarations & includes
-- Prefer forward declarations in `.h` headers and move includes to `.cpp`:
+- Prefer forward declarations in `.h` headers and move includes to `.cpp`
+- Every file that includes header also transitively includes everything the header includes
 ```cpp
 #include "..."
-#include "ClassName.generated.h" // alway
+#include "ClassName.generated.h" // always last
+
+// forward declarations
+class UInputMappingContext;
+...
 ```
