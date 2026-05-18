@@ -116,3 +116,9 @@ int32 GetHealth() const {
 }
 ```
 
+### Forward declarations & includes
+- Prefer forward declarations in `.h` headers and move includes to `.cpp`:
+```cpp
+#include "..."
+#include "ClassName.generated.h" // alway
+```
